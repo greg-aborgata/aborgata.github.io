@@ -1,0 +1,9 @@
+{
+  "subject": "acct:admin@aborgata.com",
+  "links": [
+    {
+      "rel": "http://openid.net",
+      "href": "https://zoho.com"
+    }
+  ]
+}
